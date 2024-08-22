@@ -1,0 +1,215 @@
+1.Print
+
+
+print("Ramesha Rawnok Haque")
+
+
+2.Comments
+
+
+name = "Rawnok Snowball"
+print(name)
+
+
+3.Variable
+
+
+age = 20
+savings = 300.06
+name = "Rawnok"
+print(age)
+print(savings)
+print(name)
+
+
+4.Data Types
+
+
+x = "Rawnok" # string
+x = 78 # integer
+x = 10.18  # float
+x = 8j  # complex
+x = ["A", "B", "C"]  # list
+x = ("A", "B", "C")  # tuple
+x = {"name": "Rawnok", "age": 20} # dict
+x = {"A", "B", "C"} # set
+x = True  # bool
+x = b"A" # binary
+
+
+5.Input/ Output
+
+val = input("Enter a value: ")
+print(val)
+
+
+6.Operators (Arithmetic)
+
+
+r = 13
+h = 5
+add = r + h
+
+sub = r - h
+
+mul = r * h
+
+mod = r % h
+
+p = r ** h
+print(add)
+print(sub)
+print(mul)
+print(mod)
+print(p)
+
+
+7.Logical Operator
+
+
+r = True
+h = False
+print(r and h)
+print(r or h)
+print(not r)
+
+
+8.Bitwise operator (not needed)
+
+
+r = 13
+h = 5
+print(r & h)
+print(r | h)
+print(~r)
+print(r ^ h)
+print(r >> 6)
+print(r << 6)
+
+
+9.Assignment operator (not needed)
+
+r = 18
+h = r
+print(h)
+h += r
+print(h)
+h -= r
+print(h)
+h *= r
+print(h)
+h <<= r
+print(h)
+
+
+10.if-Else
+
+
+i = 78
+if (i < 50):
+    print("i is smaller than 50")
+    print("i'm in if Block")
+else:
+    print("i is greater than 50")
+    print("i'm in else Block")
+print("i'm not in if and not in else Block")
+
+
+11.if-elif-else ladder
+
+i = 54
+if (i == 21):
+    print("i is 21")
+elif (i == 35):
+    print("i is 35")
+elif (i == 54):
+    print("i is 54")
+else:
+    print("i is not present")
+
+
+12.for loop
+
+for i in range(0, 15, 3):
+    print(i)
+
+
+13.While loop
+
+count = 2
+while (count < 5):
+    count = count + 1
+    print("Rawnok")
+
+
+14.Break
+
+
+s = 'rawnok'
+# for loop
+for letter in s:
+
+    print(letter)
+    if letter == 'w' or letter == 'o':
+        break
+
+print("Out of for loop")
+print()
+
+i = 0
+
+# while loop
+while True:
+    print(s[i])
+
+
+    if s[i] == 'w' or s[i] == 'o':
+        break
+    i += 1
+
+print("Out of while loop")
+
+
+15.Nested for loop (break, Range)
+
+# nested for loop
+
+for i in range(1, 5):
+
+    for j in range(2, 6):
+
+        if j%i == 0:
+            break
+
+        print(i, " ", j)
+
+
+16.Contiue Statement
+
+for i in range(2, 19):
+
+    if i == 8:
+        continue
+    else:
+        print(i, end = " ")
+
+
+
+
+17.Pass
+
+s = "rawnok"
+
+for i in s:
+    pass
+
+def fun():
+    pass
+
+fun()
+
+for i in s:
+    if i == 'n':
+        print('Pass executed')
+        pass
+    print(i)
