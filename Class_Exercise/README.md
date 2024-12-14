@@ -5,7 +5,7 @@
 
 Ramesha Rawnok Haque </br>
 ID: 0242220005101665 </br>
-Section: 63_M2 </br>
+Lab Section: 63_M2 </br>
 Department of CSE</br>
 Daffodil International University 
 
