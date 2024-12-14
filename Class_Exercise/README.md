@@ -1,17 +1,22 @@
-Class Exercise
-Submitted by
+# Class Exercise
 
-Ramesha Rawnok Haque
-ID: 0242220005101665
-Section: 63_M2
-Department of CSE
+
+**Submitted by**
+
+Ramesha Rawnok Haque </br>
+ID: 0242220005101665 </br>
+Section: 63_M2 </br>
+Department of CSE</br>
+Daffodil International University 
+
+---
+
+**Submitted to**
+
+Nasima Islam Bithi</br>
+Lecturer</br>
+Department of CSE</br>
 Daffodil International University
 
-Submitted to
-
-Nasima Islam Bithi
-Lecturer
-Department of CSE
-Daffodil International University
-
-Problem List: Google Classroom Link
+---
+Problem List: [Google Classroom Link](https://classroom.google.com/c/Njk4Mzc1MTU1NTI3/p/NzM2MDc5MDMzNTg4)
